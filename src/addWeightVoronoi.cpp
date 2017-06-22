@@ -87,7 +87,6 @@ struct Cropped_voronoi_from_apollonius{
 
 
 
-
 int main()
 {
   std::ifstream ifs("sites.cin");
